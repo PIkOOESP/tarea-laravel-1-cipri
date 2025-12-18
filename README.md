@@ -817,5 +817,3 @@ players-crud/
 ```
 
 ---
-
-**¡CRUD COMPLETO Y FUNCIONAL CON EXPLICACIÓN DE ROUTE::RESOURCE()!** 🚀
