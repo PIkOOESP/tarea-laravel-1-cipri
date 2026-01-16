@@ -32,4 +32,12 @@ El segundo problema ha sido el runtime. Al instalar las depencencias decia que e
 
 #### Solucion
 
+Busque runtime vercel php y encontre este [github](https://github.com/vercel-community/php). En el readme.md ponia runtime : vercel-php@0.9.0. Hice pinta e inventa suponiendo que era la ultima version y resulta que funciona.
 
+### Tercer problema
+
+No tengo base de datos.
+
+#### Solucion
+
+He encontrado un blog 
