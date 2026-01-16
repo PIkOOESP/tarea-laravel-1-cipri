@@ -40,4 +40,4 @@ No tengo base de datos.
 
 #### Solucion
 
-He encontrado un blog 
+Primero empecé creando una base de datos en neon (el propio vercel te da esa opcion). Por alguna razon daba error al poner los email de usuarios unico y por no cambiarlo he preferido hacer la base de datos con render, la que use para el ultimo trabajo de subir a render la misma app. Poniendo los credenciales en el .env se despliega bien
